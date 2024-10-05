@@ -125,6 +125,9 @@ section {
 #about, #skills, #projects, #experience, #education, #contact {
     background: #f9f9f9;
 }
+#mycontact{
+    text-align: center;
+}
 
 h2 {
     text-align: center;
