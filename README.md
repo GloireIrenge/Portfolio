@@ -53,4 +53,4 @@ To run this portfolio locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/GloireIrenge/portfolio.git
