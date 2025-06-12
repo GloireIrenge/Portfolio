@@ -1,4 +1,4 @@
-# Gloire Mufungizi - Software Engineer Portfolio
+# Gloire Mufungizi - Full Stack developer
 
 Welcome to my portfolio! This project showcases my skills, projects, certifications, and experiences as a passionate Software Engineer. I have strong expertise in PHP, Laravel and i also work with python , JavaScript and Django. This portfolio also highlights my 5+ years of experience in software development and teaching.
 
